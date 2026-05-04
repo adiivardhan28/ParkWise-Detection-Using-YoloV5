@@ -72,10 +72,7 @@
 
 ---
 
-## 👨‍💻 Author
 
-**Sahith**
-🔗 GitHub: (https://github.com/sahith215/Parkwise)
 
 
 
